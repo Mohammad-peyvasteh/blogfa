@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": "0acc",
+      "name": "ullhu",
+      "email": "mohammadpirasteh1382@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "c296",
+      "email": "kom@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "379e",
+      "email": "ali@gamil.com",
+      "password": "12345678"
+    },
+    {
+      "id": "8507",
+      "name": "ali",
+      "email": "mohammadpirasteh1382@gmaill.com",
+      "password": "12345678"
+    },
+    {
+      "id": "063a",
+      "name": "ali",
+      "email": "mohamsad@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1359",
+      "name": "نتمهختهکخ",
+      "email": "mohammadpirasteh1382@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "e9c6",
+      "name": "نتمهختهکخ",
+      "email": "mohammadpirasteh1382@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "fa3e",
+      "name": "gff",
+      "email": "mohammadpirasteh1382@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "شروع برنامه‌نویسی با جاوااسکریپت ",
+      "description": "راهنمای مقدماتی برای یادگیری جاوااسکریپت از صفر.",
+      "category": "برنامه‌نویسی",
+      "image": "/images/data/1.png"
+    },
+    {
+      "id": "2",
+      "title": "درک مفاهیم شی‌گرایی در پایتون",
+      "description": "توضیح ساده و عملی از اصول برنامه‌نویسی شی‌گرا.",
+      "category": "برنامه‌نویسی",
+      "image": "/images/data/2.png"
+    },
+    {
+      "id": "3",
+      "title": "۵ پروژه کوچک برای تمرین برنامه‌نویسی",
+      "description": "پروژه‌های کاربردی برای تقویت مهارت کدنویسی.",
+      "category": "برنامه‌نویسی",
+      "image": "/images/data/3.png"
+    },
+    {
+      "id": "4",
+      "title": "بررسی آخرین نسخه آیفون",
+      "description": "نگاهی به ویژگی‌های جدید و تغییرات آیفون جدید.",
+      "category": "تکنولوژی",
+      "image": "/images/data/4.png"
+    },
+    {
+      "id": "5",
+      "title": "هوش مصنوعی و آینده مشاغل",
+      "description": "بررسی تأثیر هوش مصنوعی بر بازار کار جهانی.",
+      "category": "تکنولوژی",
+      "image": "/images/data/5.png"
+    },
+    {
+      "id": "6",
+      "title": "مقایسه لپ‌تاپ‌های گیمینگ ۲۰۲۵",
+      "description": "تحلیل بهترین لپ‌تاپ‌های مخصوص بازی در سال جاری.",
+      "category": "تکنولوژی",
+      "image": "/images/data/6.png"
+    },
+    {
+      "id": " 7",
+      "title": "چطور عادت مطالعه روزانه بسازیم",
+      "description": "روش‌های عملی برای ایجاد عادت مطالعه مداوم.",
+      "category": "عمومی",
+      "image": "/images/data/7.png"
+    },
+    {
+      "id": "8",
+      "title": "مدیریت استرس در زندگی روزمره",
+      "description": "تکنیک‌هایی برای کاهش فشار روانی و اضطراب.",
+      "category": "عمومی",
+      "image": "/images/data/8.png"
+    },
+    {
+      "id": "9",
+      "title": "اهمیت خواب کافی برای سلامت",
+      "description": "چطور خواب با کیفیت روی زندگی ما اثر می‌گذارد.",
+      "category": "عمومی",
+      "image": "/images/data/9.png"
+    },
+    {
+      "id": "10",
+      "title": "زیباترین جنگل‌های ایران",
+      "description": "معرفی مناطق جنگلی دیدنی ایران برای سفر.",
+      "category": "طبیعت",
+      "image": "/images/data/10.png"
+    },
+    {
+      "title": "عجایب طبیعی جهان",
+      "description": "بررسی شگفت‌انگیزترین جاذبه‌های طبیعی دنیا.",
+      "category": "تکنولوژی",
+      "id": "11",
+       "image": "/images/data/11.png"
+    },
+    {
+      "title": "حیات وحش در مناطق حفاظت‌شده",
+      "description": "نگاهی به گونه‌های جانوری کمیاب و در حال انقراض.",
+      "category": "طبیعت",
+      "id": "12",
+       "image": "/images/data/12.png"
+
+    }
+  ]
+}

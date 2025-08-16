@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/vazir/Vazir-Regular.woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/vazir/Vazirmatn-Medium.woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/vazir/Vazirmatn-Bold.woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/vazir/Vazirmatn-ExtraBold.woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/vazir/Vazirmatn-Black.woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: block;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-vazir);
+  --font-mono: var(--font-geist-mono);
+ 
+}
+
+
+
+
+@utility container {
+  padding-inline: 10px;
+  margin-inline: auto;
+  
+  @variant sm {
+    padding-inline: 20px;
+  }
+   @variant md {
+    padding-inline: 20px;
+  }
+  
+  @variant lg {
+    padding-inline: 30px;
+  }
+  
+  @variant xl {
+    padding-inline: 40px;
+  }
+}
